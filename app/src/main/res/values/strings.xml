@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Заказы</string>
+    <string name="title_chats">Чаты</string>
+    <string name="title_exchange">Биржа</string>
+    <string name="title_orders">Заказы</string>
+    <string name="title_notifications">Уведомления</string>
+    <string name="title_profile">Я</string>
+
+    <string name="title_customer">Я покупатель</string>
+    <string name="title_seller">Я продавец</string>
+
+    <string name="status_in_progress">В работе</string>
+    <string name="status_no_data">Предоставьте данные</string>
+    <string name="status_done">Завершено</string>
+    <string name="status_new">Новые</string>
+
+    <string name="yesterday">Вчера</string>
+    <string name="today">Сегодня</string>
+</resources>
